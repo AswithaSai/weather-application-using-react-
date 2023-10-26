@@ -12,7 +12,7 @@ function App() {
         <a href="https://github.com/Sujitha7824/React_weather_app">
           Download Source Code
         </a>{" "}
-        | Developed by SujithaNuli
+        | Developed by AswithaSai
        
         
       </div>
